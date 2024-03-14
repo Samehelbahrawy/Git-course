@@ -2,4 +2,4 @@
 For learn Git and Github
 
 
-#1 Project notes
+# Project notes
